@@ -1,6 +1,7 @@
 [
-    {"name": "GMA", "url": "https://ott.m3u8.nathcreqtives.com/gma/manifest.m3u8"},
-    {"name": "TV5", "url": "https://ott.m3u8.nathcreqtives.com/tv5/manifest.m3u8"},
+    {"name": "La Pecera", "url": "https://cdn.azulfm.com.uy/azulmp3/11167.mp3"},
+    {"name": "La culpa es de colon", "url": "https://mdstrm.com/video/68c4073d9cad948f84071744.m3u8"},
+    {"name": "Azul FM", "url": "https://azul-2.nty.uy/"},
     {"name": "Kapamilya Channel", "url": "https://ott.m3u8.nathcreqtives.com/kapamilyachannel/manifest.m3u8"},
     {"name": "One PH", "url": "https://ott.m3u8.nathcreqtives.com/oneph/manifest.m3u8"},
     {"name": "RPTV", "url": "https://ott.m3u8.nathcreqtives.com/rptv/manifest.m3u8"},
@@ -80,7 +81,5 @@
     {"name": "Animexdive", "url": "https://ott.m3u8.nathcreqtives.com/animexdive/stream/manifest.m3u8"},
     {"name": "MYX Global", "url": "https://ott.m3u8.nathcreqtives.com/myxglobal/manifest.m3u8"},
     {"name": "MTV 90s", "url": "https://ott.m3u8.nathcreqtives.com/mtv90s/stream/manifest.m3u8"},
-    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
-    {"name": "Animal Planet", "url": "http://painel.iptvmove.com:25461/live/danga07/1963/1353.m3u8"},
-    {"name": "Anime X Hive", "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/1200.m3u8"}
+    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"}
 ]
