@@ -1,7 +1,6 @@
 [
     {"name": "La Pecera", "url": "https://cdn.azulfm.com.uy/azulmp3/11167.mp3"},
     {"name": "La culpa es de colon", "url": "https://mdstrm.com/video/68c4073d9cad948f84071744.m3u8"},
-    {"name": "Brasil tv", "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-"}
+    {"name": "ign", "url": "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8"}
     
 ]
