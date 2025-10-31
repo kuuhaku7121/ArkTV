@@ -81,5 +81,6 @@
     {"name": "MYX Global", "url": "https://ott.m3u8.nathcreqtives.com/myxglobal/manifest.m3u8"},
     {"name": "MTV 90s", "url": "https://ott.m3u8.nathcreqtives.com/mtv90s/stream/manifest.m3u8"},
     {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
-    {"name": "Animal Planet", "url": "http://painel.iptvmove.com:25461/live/danga07/1963/1353.m3u8"}
+    {"name": "Animal Planet", "url": "http://painel.iptvmove.com:25461/live/danga07/1963/1353.m3u8"},
+    {"name": "Anime X Hive", "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/1200.m3u8"}
 ]
