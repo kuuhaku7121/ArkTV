@@ -32,5 +32,6 @@
     {"name": "HALLYPOP", "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8"},
     {"name": "SCREAMFLIX", "url": "https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8"},
     {"name": "COMBAT GO", "url": "https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_720p.m3u8"},
-    {"name": "Rede tv", "url": "http://tvz.lat:80/810565828/954676936/78239"}
+    {"name": "Rede tv", "url": "http://tvz.lat:80/810565828/954676936/78239"},
+    {"name": "Telecine action hd", "url": "http://tvz.lat:80/810565828/954676936/78239"}
 ]
